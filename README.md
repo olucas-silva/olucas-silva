@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando PM Full-Stack
-- 😄 Pronouns: ele/he
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://instagram.com/olucas.silva">
