@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 
 <div align="center">
-  <a href="https://instagram.com/olucas.silva">
+  <a href="https://instagram.com/0lucas.silva">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=olucas-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucas-silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
